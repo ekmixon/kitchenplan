@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "thor",           "~> 0.18.1"
+gem "thor", "~> 1.4.0"
 gem "gabba",          "~> 1.0.1"
 gem "deep_merge",     "~> 1.0.1"
 
